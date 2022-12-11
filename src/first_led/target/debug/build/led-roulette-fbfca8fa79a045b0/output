@@ -1,0 +1,2 @@
+cargo:rustc-link-search=d:\RustRepo\EmbedPrjs\micro_bit_v2\Rust-MicroBitV2\src\first_led\target\debug\build\led-roulette-fbfca8fa79a045b0\out
+cargo:rerun-if-changed=memory.x
